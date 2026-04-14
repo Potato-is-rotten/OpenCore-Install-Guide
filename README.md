@@ -1,13 +1,13 @@
 ---
 home: true
 heroImage: /dortania-logo-clear.png
-heroText: Dortania's OpenCore Install Guide
-actionText: Getting Started→
+heroText: OpenCore 安装指南
+actionText: 准备开始→
 actionLink: prerequisites.md
 
 meta:
 - name: description
-  content: Current supported version 1.0.6
+  content: 中文版安装教程 - 目前支持到1.0.6
 ---
 
 # OpenCore是什么？这个指南是为谁准备的？
