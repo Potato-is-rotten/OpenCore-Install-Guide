@@ -1,4 +1,4 @@
-# Why OpenCore over Clover and others
+# 为何选择 OpenCore 而非 Clover 及其他方案
 
 This section contains a brief rundown as to why the community has been transitioning over to OpenCore, and aims to dispel a few common myths in the community. Those who just want a macOS machine can skip this page.
 
