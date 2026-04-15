@@ -10,7 +10,7 @@
    * 您的 CPU 型号及代号
    * 您的 GPU
    * 您的存储设备 (硬盘/固态硬盘, NVMe/AHCI/RAID/IDE 配置)
-   * Your laptop/desktop model if from an OEM
+   * 您的笔记本/desktop model if from an OEM
    * Your **Ethernet chipset**
    * Your WLAN/Bluetooth chipset
 3. <span style="color:red">_**[关键]**_</span> **A BASIC KNOWLEDGE OF COMMAND LINES AND HOW TO USE A TERMINAL/COMMAND PROMPT**
